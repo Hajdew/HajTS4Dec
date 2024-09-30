@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
 - [License](#license)
 
 ## Usage
