@@ -4,7 +4,6 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Usage
@@ -14,7 +13,7 @@
 
 ### Requirements
 - Python 3.x
-- Install dependencies via `pip install uncompyle6 decompyle3 tqdm`
+- Install dependencies via `pip install uncompyle6 decompyle3 tqdm` or `pip install -r requirements.txt` when cloned repo
 
 ### Features
 - Decompiles `.pyc` files using `uncompyle6` with a fallback to `decompyle3`.
