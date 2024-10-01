@@ -1,6 +1,6 @@
 # TS4Script Decompiler
 This is Decompiler for .ts4script file formats, this format is used for The Sims 4 Mods with Scripts.
-You can use it if you found bug and want to fix it or just ur curious what is under the engine, Remember Mods can have Licences!
+You can use it if you found bug and want to fix it or just you are curious what is under the engine, Remember Mods can have Licences!
 
 
 ## Table of Contents
